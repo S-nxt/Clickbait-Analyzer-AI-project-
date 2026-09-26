@@ -1,4 +1,3 @@
-# src/text_cleaner.py
 import re
 import nltk
 from nltk.corpus import stopwords
