@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+joblib
+
+nltk
+
+requests
+beautifulsoup4
+
+PyQt5
+matplotlib
+seaborn
+torch
+pyinstaller
